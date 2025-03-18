@@ -94,7 +94,7 @@ p {
 
 <h4> Important deadlines </h4>
 * <p>  Registrations: by April 21, 2025</p>
-* <p>  Abstracts:  May 1, 2025</p>
+* <p>  Abstracts:  May 2, 2025</p>
 
 <div class="speaker-section">
   <h2>Organizers</h2>
