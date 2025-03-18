@@ -1,0 +1,178 @@
+title: Ontario Combinatorics Workshop
+preposition: ''
+description: >-
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
+
+# Exclude from processing
+exclude:
+  - .github/
+  - venv/
+  - README.md
+  - LICENSE.md
+  - REDISTRIBUTED.md
+  - screenshot.png
+  - jekyll-theme-conference.gemspec
+  - purgecss.config.js
+  - _config.example.yml
+
+# Collections and their defaults
+collections:
+  talks:
+    output: true
+    permalink: /:collection/:title/
+  speakers:
+    output: true
+    permalink: /:collection/:title/
+  rooms:
+    output: true
+    permalink: /:collection/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+  - scope:
+      path: ""
+      type: speakers
+    values:
+      layout: speaker
+  - scope:
+      path: ""
+      type: rooms
+    values:
+      layout: room
+
+# Theme default values
+
+theme: jekyll-theme-conference
+
+conference:
+  lang: en
+  show_errors: True
+
+  # Timezone
+  tz: "-04:00"
+
+  link_preview:
+    disable: false
+
+    # Navigation bar
+  navigation:
+    #logo:
+     # name: Digital Society Switzerland
+      # img: ''
+      #url: 'https://digitale-gesellschaft.ch/'
+    breakpoint: md
+    links:
+      - name: Program
+        relative_url: /program/
+      - name: Talks
+        relative_url: /talks/
+      - name: Participants
+        relative_url: /speakers/
+      - name: Location
+        relative_url: /location/
+
+  speakers:
+    show_firstname: true
+
+  location:
+    url: '/location'
+    map: true
+
+  program:
+    url: '/program'
+    time_steps: 45
+    show_alltimes: false
+
+  # Main landing page
+  main:
+    # logo:
+    #   img: ''
+    links:
+      - name: Program
+        relative_url: /program/
+      - name: How to get there
+        relative_url: /location/
+      #- name: Tickets
+      #  disabled: true
+      #  absolute_url: ''
+
+  # Information boxes
+  info_bars:
+    - title: Under construction
+      color: primary
+      main_only: false
+      
+    #- text: This is just some random content for demonstration purposes.
+    #  color: warning
+    #  pages_only: true
+
+  # Live indications
+  live:
+    date: 24.05.2025
+    timezone: GMT-4
+    stop:       240  # in minutes
+    streaming:
+      enable: true
+      pause:     60  # in minutes
+      prepend:    5  # in minutes
+      extend:     5  # in minutes
+    demo:
+      enable: false
+      duration: 300  # in seconds
+      pause:     10  # in seconds
+
+  talks:
+    # Talk categories
+    main_categories:
+      - name: Cat A
+        color: info
+      - name: Cat B
+        color: success
+
+    # Hide icons on talk overview page
+    hide_icons: false
+
+  speakers:
+    # Show first and last name
+    show_firstname: true
+
+  location:
+    # Disable links to locations
+    hide: false
+    # URL of location / room overview page
+    url: '/location'
+    # Main page title shown on location/room navigation bar
+    navbar_title: 'Location'
+    # Show map on location main page.  Set `map: false` if you don't want to
+    # display it.
+    map:
+      # Initial map center point
+      home_coord: 45.38716831639982, -75.69590484279401
+      # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
+      # The following do match the Bootstrap design not too badly:
+      #   - Thunderforest.Neighbourhood
+      #   - Esri.WorldTopoMap
+      map_provider: "OpenStreetMap.Mapnik"
+      default_zoom: 17
+
+
+  program:
+    # URL of program page
+    url: '/program'
+
+    # Time steps in program table
+    time_steps: 15 # in minutes
+
+    # Show intermediary time steps (next to full hours)
+    show_alltimes: true

@@ -1,0 +1,4 @@
+---
+name: Sunday
+hide: true
+---
