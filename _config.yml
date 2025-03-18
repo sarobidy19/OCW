@@ -2,8 +2,8 @@ title: Ontario Combinatorics Workshop
 preposition: ''
 description: >-
   
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sarobidyraz.com/" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "/OCW" # the subpath of your site, e.g. /blog
+url: "https://sarobidyraz.com" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Build settings
 markdown: kramdown
