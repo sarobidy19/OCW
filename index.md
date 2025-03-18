@@ -60,7 +60,7 @@ p {
 
     <div class="speaker-card">
       <div class="speaker-image-container">
-        <img src="/assets/img/qst.jpg" alt="Speaker 1 Name">
+        <img src="{{site.baseurl}}/assets/img/qst.jpg" alt="Speaker 1 Name">
       </div>
       <h3><td style="text-align:center"><a href="https://sites.google.com/view/breenj">Jane Breen</a> </td></h3>
       <p>Ontario Tech University</p>
@@ -68,7 +68,7 @@ p {
 
     <div class="speaker-card">
       <div class="speaker-image-container">
-        <img src="/assets/img/qst.jpg" alt="Speaker 2 Name">
+        <img src="{{site.baseurl}}/assets/img/qst.jpg" alt="Speaker 2 Name">
       </div>
       <h3><td style="text-align:center"><a href="https://people.math.carleton.ca/~daniel/">Daniel Panario</a></td></h3>
       <p>Carlton University</p>
@@ -76,7 +76,7 @@ p {
 
     <div class="speaker-card">
       <div class="speaker-image-container">
-        <img src="/assets/img/qst.jpg" alt="Speaker 3 Name">
+        <img src="{{site.baseurl}}/assets/img/qst.jpg" alt="Speaker 3 Name">
       </div>
       <h3><td style="text-align:center"><a href="#">TBA</a></td></h3>
       <p>TBA</p>
