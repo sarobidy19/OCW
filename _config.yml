@@ -53,7 +53,7 @@ defaults:
 
 # Theme default values
 
-theme: jekyll-theme-conference
+remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.1"
 
 conference:
   lang: en
@@ -176,3 +176,6 @@ conference:
 
     # Show intermediary time steps (next to full hours)
     show_alltimes: true
+
+plugins:
+  - jekyll-include-cache
