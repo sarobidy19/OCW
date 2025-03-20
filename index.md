@@ -60,7 +60,7 @@ p {
 
     <div class="speaker-card">
       <div class="speaker-image-container">
-        <img src="{{site.baseurl}}/assets/img/qst.jpg" alt="Speaker 1 Name">
+        <img src="{{site.baseurl}}/assets/img/breen-jane.jpg" alt="Speaker 1 Name">
       </div>
       <h3><td style="text-align:center"><a href="https://sites.google.com/view/breenj">Jane Breen</a> </td></h3>
       <p>Ontario Tech University</p>
@@ -93,13 +93,13 @@ p {
 
 
 <h4> Important deadlines </h4>
-* <p>  Registrations: by April 21, 2025</p>
-* <p>  Abstracts:  May 2, 2025</p>
+* <p>  Registrations: by April ..., 2025</p>
+* <p>  Abstracts:  May ..., 2025</p>
 
 <div class="speaker-section">
   <h2>Organizers</h2>
 </div>
 
-* <p>  <a href="#"> Ada Chan, York University </a> </p>
-* <p>  <a href="#"> Bobby Miraftab, Carlton University </a> </p>
-* <p>  <a href="#"> Sarobidy Razafimahatratra, Fields Institute </a> </p>
+* <p>  <a href="https://www.yorku.ca/ssachan/"> Ada Chan, York University </a> </p>
+* <p>  <a href="https://www.bobby-miraftab.com/"> Bobby Miraftab, Carlton University </a> </p>
+* <p>  <a href="https://sarobidyraz.com/"> Sarobidy Razafimahatratra, Fields Institute </a> </p>
