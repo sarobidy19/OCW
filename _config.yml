@@ -101,8 +101,8 @@ conference:
     links:
 #      - name: Program
 #        relative_url: /program/
-      - name: How to get there
-        relative_url: /location/
+#      - name: How to get there
+#        relative_url: /location/
       #- name: Tickets
       #  disabled: true
       #  absolute_url: ''
