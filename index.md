@@ -51,11 +51,11 @@ p {
 </style>
 
 
-<p> The 28th Ontario Combinatorics Workshop will be held in Ottawa at Carleton University on May 24-25, 2025.</p>
+<p> The 28th Ontario Combinatorics Workshop (OCW) will be held in Ottawa at Carleton University on May 24-25, 2025.</p>
 
 
 <div class="speaker-section">
-  <h2>Plenary Speakers</h2>
+  <h1>Plenary Speakers</h1>
   <div class="speaker-grid">
 
     <div class="speaker-card">
@@ -92,9 +92,23 @@ p {
   <p> You can register <a href="#"> here </a> if you would like to participate or give a talk. There is no registration fee, but we would like to have an estimate of the participants. </p>
 
 
+
 <h4> Important deadlines </h4>
 * <p>  Registrations: by April ..., 2025</p>
 * <p>  Abstracts:  May ..., 2025</p>
+
+<div class="speaker-section">
+  <h2> Student funding</h2>
+  </div>
+  <p> We have limited funding for graduate students who wish to give a talk at OCW. Please complete this <a href="#"> application form </a>. </p>
+
+* <p>  Deadline: May 2025</p>
+* <p>  Notification:  May ..., 2025</p>
+
+<div class="speaker-section">
+  <h2> Peter Rodney Book Prize</h2>
+  </div>
+  <p> The best talk given by a student at the Ontario Combinatorics Workshop will be awarded the Peter Rodney Memorial Book Prize. This prize of a book and memorial book plate is given in honour of Dr. Peter Rodney (1965-1995). Dr. Peter Rodney graduated from McGill University, and then obtained his Masters and Ph.D degrees in Combinatorics, from the University of Toronto. He graduated in 1993 and went on to do postdoctoral research at the University of Vermont. He then continued to work in both the public and private sectors, using discrete mathematics, cryptography, and number theory. He had a deep appreciation for probability theory and was an avid card player. He died unexpectedly at the age of 30. His friends and family created a fund in his memory whose proceeds finance this book prize.</p>
 
 <div class="speaker-section">
   <h2>Organizers</h2>
