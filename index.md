@@ -91,19 +91,14 @@ p {
 
   <p> You can register <a href="#"> here </a> if you would like to participate or give a talk. There is no registration fee, but we would like to have an estimate of the participants. </p>
 
-
+  <p> We have limited funding for graduate students who wish to give a talk at OCW. Please complete this <a href="#"> application form </a>. </p>
 
 <h4> Important deadlines </h4>
 * <p>  Registrations: by April ..., 2025</p>
 * <p>  Abstracts:  May ..., 2025</p>
+* <p>  Deadline for funding: May 2025</p>
+* <p>  Notification of funding:  May ..., 2025</p>
 
-<div class="speaker-section">
-  <h2> Student funding</h2>
-  </div>
-  <p> We have limited funding for graduate students who wish to give a talk at OCW. Please complete this <a href="#"> application form </a>. </p>
-
-* <p>  Deadline: May 2025</p>
-* <p>  Notification:  May ..., 2025</p>
 
 <div class="speaker-section">
   <h2> Peter Rodney Book Prize</h2>
@@ -118,10 +113,9 @@ p {
 * <p>  <a href="https://www.bobby-miraftab.com/"> Bobby Miraftab, Carlton University </a> </p>
 * <p>  <a href="https://sarobidyraz.com/"> Sarobidy Razafimahatratra, Fields Institute </a> </p>
 
-<div class="speaker-section">
-  <h2>Sponsors</h2>
-</div>
-
 The Ontario Combinatorics Workshop acknowledges the support of the <a href = "https://www.cse-cst.gc.ca/en/mission/research-cse/tutte-institute-mathematics-computing"> Tutte Institute for Mathematics and Computing</a>.
 
-<center> <img src="{{site.baseurl}}/assets/img/Timc.png" style="width: 400px; min-width: 400px;" > </center> 
+<center> 
+  <img src="{{site.baseurl}}/assets/img/Carleton.png" style="width: 300px; min-width: 300px;" >
+  <img src="{{site.baseurl}}/assets/img/Timc.png" style="width: 200px; min-width: 200px;" > 
+</center> 
