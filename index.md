@@ -68,7 +68,7 @@ p {
 
     <div class="speaker-card">
       <div class="speaker-image-container">
-        <img src="{{site.baseurl}}/assets/img/qst.jpg" alt="Speaker 2 Name">
+        <img src="{{site.baseurl}}/assets/img/daniel-panario.jpg" alt="Speaker 2 Name">
       </div>
       <h3><td style="text-align:center"><a href="https://people.math.carleton.ca/~daniel/">Daniel Panario</a></td></h3>
       <p>Carlton University</p>
@@ -78,8 +78,8 @@ p {
       <div class="speaker-image-container">
         <img src="{{site.baseurl}}/assets/img/qst.jpg" alt="Speaker 3 Name">
       </div>
-      <h3><td style="text-align:center"><a href="#">TBA</a></td></h3>
-      <p>TBA</p>
+      <h3><td style="text-align:center"><a href="https://uniweb.uottawa.ca/sites/Mateja-Sajna">Mateja Šajna</a></td></h3>
+      <p>University of Ottawa</p>
     </div>
 
   </div>
@@ -117,3 +117,11 @@ p {
 * <p>  <a href="https://www.yorku.ca/ssachan/"> Ada Chan, York University </a> </p>
 * <p>  <a href="https://www.bobby-miraftab.com/"> Bobby Miraftab, Carlton University </a> </p>
 * <p>  <a href="https://sarobidyraz.com/"> Sarobidy Razafimahatratra, Fields Institute </a> </p>
+
+<div class="speaker-section">
+  <h2>Sponsors</h2>
+</div>
+
+The Ontario Combinatorics Workshop acknowledges the support of the <a href = "https://www.cse-cst.gc.ca/en/mission/research-cse/tutte-institute-mathematics-computing"> Tutte Institute for Mathematics and Computing</a>.
+
+<center> <img src="{{site.baseurl}}/assets/img/Timc.png" style="width: 400px; min-width: 400px;" > </center> 
