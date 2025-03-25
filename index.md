@@ -113,6 +113,8 @@ p {
 * <p>  <a href="https://www.bobby-miraftab.com/"> Bobby Miraftab, Carleton University </a> </p>
 * <p>  <a href="https://sarobidyraz.com/"> Sarobidy Razafimahatratra, Fields Institute </a> </p>
 
+For any question, please email <a href="mailto:ssachan@yorku.ca">ssachan@yorku.ca</a>.
+
 The Ontario Combinatorics Workshop acknowledges the support of <a href="https://carleton.ca/math/"> Carleton University </a> and  the <a href = "https://www.cse-cst.gc.ca/en/mission/research-cse/tutte-institute-mathematics-computing"> Tutte Institute for Mathematics and Computing</a>.
 
 <center> 
