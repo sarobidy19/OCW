@@ -76,7 +76,7 @@ p {
 
     <div class="speaker-card">
       <div class="speaker-image-container">
-        <img src="{{site.baseurl}}/assets/img/qst.jpg" alt="Speaker 3 Name">
+        <img src="{{site.baseurl}}/assets/img/Mateja Šajna-cropped.jpg" alt="Speaker 3 Name">
       </div>
       <h3><td style="text-align:center"><a href="https://uniweb.uottawa.ca/sites/Mateja-Sajna">Mateja Šajna</a></td></h3>
       <p>University of Ottawa</p>
@@ -116,6 +116,6 @@ p {
 The Ontario Combinatorics Workshop acknowledges the support of the <a href = "https://www.cse-cst.gc.ca/en/mission/research-cse/tutte-institute-mathematics-computing"> Tutte Institute for Mathematics and Computing</a>.
 
 <center> 
-  <img src="{{site.baseurl}}/assets/img/Carleton.png" style="width: 300px; min-width: 300px;" >
-  <img src="{{site.baseurl}}/assets/img/Timc.png" style="width: 200px; min-width: 200px;" > 
+  <a href="https://carleton.ca/math/"><img src="{{site.baseurl}}/assets/img/Carleton.png" style="width: 300px; min-width: 300px;" > </a>
+  <a href="https://www.cse-cst.gc.ca/en/mission/research-cse/tutte-institute-mathematics-computing"> <img src="{{site.baseurl}}/assets/img/Timc.png" style="width: 200px; min-width: 200px;" > </a>
 </center> 
