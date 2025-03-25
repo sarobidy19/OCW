@@ -71,7 +71,7 @@ p {
         <img src="{{site.baseurl}}/assets/img/daniel-panario.jpg" alt="Speaker 2 Name">
       </div>
       <h3><td style="text-align:center"><a href="https://people.math.carleton.ca/~daniel/">Daniel Panario</a></td></h3>
-      <p>Carlton University</p>
+      <p>Carleton University</p>
     </div>
 
     <div class="speaker-card">
@@ -113,7 +113,7 @@ p {
 * <p>  <a href="https://www.bobby-miraftab.com/"> Bobby Miraftab, Carlton University </a> </p>
 * <p>  <a href="https://sarobidyraz.com/"> Sarobidy Razafimahatratra, Fields Institute </a> </p>
 
-The Ontario Combinatorics Workshop acknowledges the support of the <a href = "https://www.cse-cst.gc.ca/en/mission/research-cse/tutte-institute-mathematics-computing"> Tutte Institute for Mathematics and Computing</a>.
+The Ontario Combinatorics Workshop acknowledges the support of <a href="https://carleton.ca/math/"> Carleton University </a> and  the <a href = "https://www.cse-cst.gc.ca/en/mission/research-cse/tutte-institute-mathematics-computing"> Tutte Institute for Mathematics and Computing</a>.
 
 <center> 
   <a href="https://carleton.ca/math/"><img src="{{site.baseurl}}/assets/img/Carleton.png" style="width: 300px; min-width: 300px;" > </a>
