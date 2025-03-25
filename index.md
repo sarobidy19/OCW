@@ -94,10 +94,10 @@ p {
   <p> We have limited funding for graduate students who wish to give a talk at OCW. Please complete this <a href="#"> application form </a>. </p>
 
 <h4> Important deadlines </h4>
-* <p>  Registrations: by April ..., 2025</p>
-* <p>  Abstracts:  May ..., 2025</p>
-* <p>  Deadline for funding: May 2025</p>
-* <p>  Notification of funding:  May ..., 2025</p>
+* <p>  <u> Registrations:</u> by May 23, 2025</p>
+* <p>  <u> Abstracts: </u>  April 24, 2025</p>
+* <p>  <u> Deadline for funding:</u> April 24, 2025</p>
+* <p>  <u> Notification of funding:</u>  May 1, 2025</p>
 
 
 <div class="speaker-section">
@@ -110,7 +110,7 @@ p {
 </div>
 
 * <p>  <a href="https://www.yorku.ca/ssachan/"> Ada Chan, York University </a> </p>
-* <p>  <a href="https://www.bobby-miraftab.com/"> Bobby Miraftab, Carlton University </a> </p>
+* <p>  <a href="https://www.bobby-miraftab.com/"> Bobby Miraftab, Carleton University </a> </p>
 * <p>  <a href="https://sarobidyraz.com/"> Sarobidy Razafimahatratra, Fields Institute </a> </p>
 
 The Ontario Combinatorics Workshop acknowledges the support of <a href="https://carleton.ca/math/"> Carleton University </a> and  the <a href = "https://www.cse-cst.gc.ca/en/mission/research-cse/tutte-institute-mathematics-computing"> Tutte Institute for Mathematics and Computing</a>.
