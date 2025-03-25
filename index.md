@@ -89,9 +89,9 @@ p {
   <h2> Registration</h2>
   </div>
 
-  <p> You can register <a href="#"> here </a> if you would like to participate or give a talk. There is no registration fee, but we would like to have an estimate of the participants. </p>
+  <p> You can <a href="https://forms.gle/y8YD4Y2jzjAaNWnN6"> register here </a> if you would like to participate or give a talk. There is no registration fee, but we would like to have an estimate of the participants. </p>
 
-  <p> We have limited funding for graduate students who wish to give a talk at OCW. Please complete this <a href="#"> application form </a>. </p>
+  <p> We have limited funding for graduate students who wish to give a talk at OCW. Please complete this <a href="https://forms.gle/EKqKPmz4xms4QbgG8"> application form </a>. </p>
 
 <h4> Important deadlines </h4>
 * <p>  <u> Registrations:</u> by May 23, 2025</p>
@@ -113,7 +113,7 @@ p {
 * <p>  <a href="https://www.bobby-miraftab.com/"> Bobby Miraftab, Carleton University </a> </p>
 * <p>  <a href="https://sarobidyraz.com/"> Sarobidy Razafimahatratra, Fields Institute </a> </p>
 
-For any question, please email <a href="mailto:ssachan@yorku.ca">ssachan@yorku.ca</a>.
+For any questions, please email <a href="mailto:ssachan@yorku.ca"></a>.
 
 The Ontario Combinatorics Workshop acknowledges the support of <a href="https://carleton.ca/math/"> Carleton University </a> and  the <a href = "https://www.cse-cst.gc.ca/en/mission/research-cse/tutte-institute-mathematics-computing"> Tutte Institute for Mathematics and Computing</a>.
 
