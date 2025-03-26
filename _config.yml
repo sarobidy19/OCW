@@ -109,7 +109,7 @@ conference:
 
   # Information boxes
   info_bars:
-    - title: For any question, please email <a href="mailto:ssachan@yorku.ca"> ssachan@yorku.ca </a> .
+    - title: For any questions, please email <a href="mailto:ssachan@yorku.ca"> ssachan@yorku.ca </a> .
       color: primary
       main_only: false
       
