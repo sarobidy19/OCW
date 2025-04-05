@@ -1,3 +1,4 @@
 ---
 layout: program
+hide: true
 ---

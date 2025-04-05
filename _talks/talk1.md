@@ -1,9 +1,8 @@
 ---
-name: TBA
+name: Plenary talk 1
 speakers:
-  - Daniel Panario
+  - Mateja Sajna
 categories:
-  - Cat A
-  - Talk
+  - Plenary
 ---
 

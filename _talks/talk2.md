@@ -1,9 +1,8 @@
 ---
-name: Condimentum Vitae Sapien Pellentesque
+name: Plenary talk 2
 speakers:
   - Jane Breen
 categories:
-  - Cat A
-  - Talk
-hide: true
+  - Plenary
+hide: false
 ---
