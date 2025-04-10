@@ -1,5 +1,5 @@
 import csv
-with open('registration-3.csv', newline='',encoding="latin-1") as csvfile:
+with open('registration-final.csv', newline='',encoding="latin-1") as csvfile:
 	f = csv.DictReader(csvfile)
 	for row in f:
 		#firstname, lastname, affiliation, stage, title
