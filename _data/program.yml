@@ -5,32 +5,65 @@ days:
   rooms:
   - name: Saturday
     talks:
-      - name: Embedding decision trees to solve bivariate recurrence relations
+      - name: Critical graphs for excluding an induced even cycle
         time_start: '8:30'
         time_end: '9:00'
-      - name: s-pair state transfer on graphs
+      - name: Embedding decision trees to solve bivariate recurrence relations
+        time_start: '9:00'
+        time_end: '9:30'
+      - name: Coffee break
         time_start: '9:30'
         time_end: '10:00'
-      - name: Plenary talk 3
+      - name: s-pair state transfer on graphs
         time_start: '10:00'
-        time_end: '11:00'
-      - name: Plenary talk 2
+        time_end: '10:30'
+      - name: Plenary talk 3
+        time_start: '10:30'
+        time_end: '11:30'
+      - name: Lunch
+        time_start: '11:30'
+        time_end: '13:30'
+      - name: Erdős-Ko-Rado theorems in polynomials over finite fields
+        time_start: '13:30'
+        time_end: '14:00'
+      - name: Probabilistic Bijections for Non-Attacking Fillings
         time_start: '14:00'
-        time_end: '15:00'
+        time_end: '14:30'
+      - name: Plenary talk 2
+        time_start: '14:30'
+        time_end: '15:30'
+      - name: Coffee break
+        time_start: '15:30'
+        time_end: '16:00'
+      - name: Soltes problem almost resolved? 
+        time_start: '16:00'
+        time_end: '16:30'
+      - name: Edge-Disjoint Linkage in Infinite Graphs
+        time_start: '16:30'
+        time_end: '17:00'
 
   - name: Sunday
     talks:
-      - name: Multi-twisted additive codes over finite fields and their dual codes
-        time_start: '8:00'
-        time_end: '8:30'
-      - name: Critical graphs for excluding an induced even cycle 
+      - name: Eccentricity matrix of corona of two graphs
         time_start: '8:30'
         time_end: '9:00'
-      - name: Plenary talk 1
+      - name: Multi-twisted additive codes over finite fields and their dual codes
+        time_start: '9:00'
+        time_end: '9:30'
+      - name: Coffee break
+        time_start: '9:30'
+        time_end: '10:00'
+      - name: Representations and  Linear Extensions of (Unit) Interval Orders 
         time_start: '10:00'
-        time_end: '11:00'
+        time_end: '10:30'
+      - name: Plenary talk 1
+        time_start: '10:30'
+        time_end: '11:30'
       - name: TBA
-        time_start: '16:00'
-        time_end: '16:30'
+        time_start: '13:30'
+        time_end: '14:00'
+      - name: A tutorial on scaffolds 
+        time_start: '14:00'
+        time_end: '14:30'
       
 

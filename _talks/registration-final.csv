@@ -38,3 +38,12 @@ many graphs with irreducible eccentricity matrix. Moreover, we compute the compl
 spectrum of ε(G ◦ H) including its ε-eigenvectors, ε-energy, and ε-inertia. Finally, we
 conclude that several non-isomorphic ε-co-spectral graphs can be generated using the
 corona product of two graphs."
+,Leo,Theocharous,,University of Ottawa,Postdoctoral fellows,Saturday May 24;Sunday May 25,Undecided,,
+,Farhad,Soltani,,York University,Graduate student,Saturday May 24;Sunday May 25,Undecided,,
+,Claude,Gravel,,Toronto Metropolitan University,Pre-tenure professor,Saturday May 24;Sunday May 25,No,,
+,Stijn,Cambie,,Ku leuven (kulak),Postdoctoral fellows,2025-05-24,Yes,Soltes problem almost resolved?,"In 1991, Soltes observed that deleting a vertex of C11 does not change the total distance of the graph.
+He asked whether there are other examples.
+
+This will be answered positively for the main generalizations of graphs, with even infinitely many examples.
+For the main simple question, we creat a better understanding, despite leaving it open."
+,Amena,Assem,,York University,Postdoctoral fellows,2025-05-24,Yes,Edge-Disjoint Linkage in Infinite Graphs,"In 1980 Thomassen conjectured that, for odd k, every k-edge-connected graph (finite or infinite) is weakly k-linked. The conjecture is still open, however, in 1991, Huck proved that an edge-connectivity of k+1 is sufficient in the case of finite graphs. We prove that Huck's result extends to all infinite graphs, thus improving a result of Ok, Richter, and Thomassen from 2016 where they showed that (k+2)-edge-connectivity implies weak k-linkedness for 1-ended locally finite graphs. This is joint work with Bruce Richter."
