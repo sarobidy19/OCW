@@ -1,7 +1,7 @@
 import csv
 import os
 
-with open('../_speakers/registration-ordered.csv', newline='',encoding="utf8") as csvfile:
+with open('../../registration-ordered.csv', newline='',encoding="utf8") as csvfile:
 	f = csv.DictReader(csvfile)
 	for row in f:
 		#firstname, lastname, affiliation, stage, title
