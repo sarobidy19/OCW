@@ -44,6 +44,9 @@ days:
       - name: Arithmetic Properties of Generalized Cubic and Overcubic Partitions
         time_start: '17:00'
         time_end: '17:30'
+      - name: A complete solution to the generalized HOP with one large table 
+        time_start: '17:30'
+        time_end: '18:00'
 
   - name: Sunday
     talks:
@@ -86,5 +89,12 @@ days:
       - name: Critical graphs for excluding an induced even cycle
         time_start: '16:30'
         time_end: '17:00'
+      - name: Mr
+        time_start: '17:00'
+        time_end: '17:30'
+      - name: How to build the factor-critical partial Steiner triple system of your dreams 
+        time_start: '17:30' 
+        time_end: '18:00'
+
       
 
