@@ -3,7 +3,7 @@ days:
   abbr: Sa
   date: 2025-05-24
   rooms:
-  - name: Saturday
+  - name: Room A
     talks:
       - name: Plenary talk 3
         time_start: '9:00'
@@ -14,14 +14,11 @@ days:
       - name: s-pair state transfer on graphs
         time_start: '10:30'
         time_end: '11:00'
-      - name: The amount and type of structure of a function in terms of its small images
+      - name: A complete solution to the generalized HOP with one large table 
         time_start: '11:00'
         time_end: '11:30'
-      - name: Monadically defined classes of gain-graphic matroids 
-        time_start: '11:30'
-        time_end: '12:00'
       - name: Lunch
-        time_start: '12:00'
+        time_start: '11:30'
         time_end: '13:30'
       - name: Plenary talk 2
         time_start: '13:30'
@@ -32,24 +29,47 @@ days:
       - name: Coffee break
         time_start: '15:00'
         time_end: '15:30'
-      - name: Erdős-Ko-Rado theorems in polynomials over finite fields
+      - name: Arithmetic Properties of Generalized Cubic and Overcubic Partitions
         time_start: '15:30'
         time_end: '16:00'
-      - name: Soltes problem almost resolved? 
+      - name: Monadically defined classes of gain-graphic matroids 
         time_start: '16:00'
         time_end: '16:30'
-      - name: Edge-Disjoint Linkage in Infinite Graphs
-        time_start: '16:30'
-        time_end: '17:00'
-      - name: Arithmetic Properties of Generalized Cubic and Overcubic Partitions
-        time_start: '17:00'
-        time_end: '17:30'
-      - name: A complete solution to the generalized HOP with one large table 
-        time_start: '17:30'
-        time_end: '18:00'
-
-  - name: Sunday
+      
+  - name: Room B
     talks:
+      - name: Coffee break
+        time_start: '10:00'
+        time_end: '10:30'
+      - name: The amount and type of structure of a function in terms of its small images
+        time_start: '10:30'
+        time_end: '11:00'
+      - name: Erdős-Ko-Rado theorems in polynomials over finite fields
+        time_start: '11:00'
+        time_end: '11:30'
+      - name: Lunch
+        time_start: '11:30'
+        time_end: '13:30'
+      - name: Soltes problem almost resolved? 
+        time_start: '14:30'
+        time_end: '15:00'
+      - name: Coffee break
+        time_start: '15:00'
+        time_end: '15:30'
+      - name: Edge-Disjoint Linkage in Infinite Graphs
+        time_start: '15:30'
+        time_end: '16:00'
+      - name: Multi-twisted additive codes over finite fields and their dual codes
+        time_start: '16:00'
+        time_end: '16:30'
+
+        
+- name: Sunday
+  abbr: Su
+  date: 2025-05-25
+  rooms: 
+    - name: Room A
+      talks:
       - name: Plenary talk 1
         time_start: '9:00'
         time_end: '10:00'
@@ -59,42 +79,51 @@ days:
       - name: Representations and  Linear Extensions of (Unit) Interval Orders 
         time_start: '10:30'
         time_end: '11:00'
-      - name: Multi-twisted additive codes over finite fields and their dual codes
+      - name: Avoiding Root Coincidences in the Weighted Matching Polynomial
         time_start: '11:00'
         time_end: '11:30'
-      - name: Avoiding Root Coincidences in the Weighted Matching Polynomial
-        time_start: '11:30'
-        time_end: '12:00'
       - name: Lunch
-        time_start: '12:00'
+        time_start: '11:30'
         time_end: '13:30'
       - name: Eccentricity matrix of corona of two graphs
         time_start: '13:30'
         time_end: '14:00'
-      - name: A tutorial on scaffolds 
+      - name: Embedding decision trees to solve bivariate recurrence relations
         time_start: '14:00'
         time_end: '14:30'
-      - name: Embedding decision trees to solve bivariate recurrence relations
+      - name: Coffee break
         time_start: '14:30'
         time_end: '15:00'
-      - name: Coffee break
+      - name: Planarity and dimension 
         time_start: '15:00'
         time_end: '15:30'
-      - name: Planarity and dimension 
+      - name: Critical graphs for excluding an induced even cycle
         time_start: '15:30'
         time_end: '16:00'
-      - name: Designs of perfect matchings 
+      - name: Mr
         time_start: '16:00'
         time_end: '16:30'
-      - name: Critical graphs for excluding an induced even cycle
-        time_start: '16:30'
-        time_end: '17:00'
-      - name: Mr
-        time_start: '17:00'
-        time_end: '17:30'
+    - name: Room B
+      talks:
+      - name: Coffee break
+        time_start: '10:00'
+        time_end: '10:30'
+      - name: A tutorial on scaffolds 
+        time_start: '10:30'
+        time_end: '11:00'
+      - name: TBA
+        time_start: '11:00'
+        time_end: '11:30'
+      - name: Lunch
+        time_start: '11:30'
+        time_end: '13:30'
       - name: How to build the factor-critical partial Steiner triple system of your dreams 
-        time_start: '17:30' 
-        time_end: '18:00'
-
-      
+        time_start: '13:30' 
+        time_end: '14:00'
+      - name: Designs of perfect matchings 
+        time_start: '14:00'
+        time_end: '14:30'
+      - name: Coffee break
+        time_start: '14:30'
+        time_end: '15:00'
 
