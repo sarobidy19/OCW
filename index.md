@@ -89,14 +89,14 @@ p {
   <h2> Registration</h2>
   </div>
 
-  <p> You can <a href="https://docs.google.com/forms/d/e/1FAIpQLSeeTSN2G8C-0Q42ufeJuGJp51xJluVrDezwybUhf5V0Irm4lg/viewform?usp=header"> register here </a> if you would like to participate or give a talk. There is no registration fee, but we would like to have an estimate of the participants. </p>
+  <p> You can <a href="https://docs.google.com/forms/d/e/1FAIpQLSeeTSN2G8C-0Q42ufeJuGJp51xJluVrDezwybUhf5V0Irm4lg/viewform?usp=header"> register here </a> if you would like to attend. There is no registration fee, but we would like to have an estimate of the participants. The abstract submission is now closed.</p>
 
-  <p> We have limited funding for graduate students who wish to give a talk at OCW. Please complete this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfMA5p78HpM7GJnNHksmeJEwhELyTJZgeXycPSldntbHEOjpA/viewform?usp=header"> application form </a>. </p>
+  <p> We have limited funding for graduate students who wish to give a talk at OCW. Please complete this <a href="#"> application form </a>. The application for student funding is now closed.</p>
 
 <h4> Important deadlines </h4>
 * <p>  <u> Registrations:</u> by May 23, 2025</p>
-* <p>  <u> Abstracts: </u>  April 24, 2025</p>
-* <p>  <u> Deadline for funding:</u> April 24, 2025</p>
+* <p>  <u> Abstracts: </u>  <s>April 24, 2025</s> </p>
+* <p>  <u> Deadline for funding:</u> <s>April 24, 2025</s></p>
 * <p>  <u> Notification of funding:</u>  May 1, 2025</p>
 
 
