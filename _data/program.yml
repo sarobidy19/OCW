@@ -1,6 +1,6 @@
 days:
 - name: Saturday
-  abbr: Sa
+  abbr: Saturday
   date: 2025-05-24
   rooms:
   - name: Room A
@@ -71,7 +71,7 @@ days:
 
         
 - name: Sunday
-  abbr: Su
+  abbr: Sunday
   date: 2025-05-25
   rooms: 
     - name: Room A
