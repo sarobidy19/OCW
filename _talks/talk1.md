@@ -1,7 +1,7 @@
 ---
-name: Plenary talk 1
+name: The Oberwolfach Problem ':' New Directions?
 speakers:
-  - Mateja Sajna
+  - Mateja Šajna
 categories:
   - Plenary
 ---

@@ -1,5 +1,5 @@
 ---
-name: Plenary talk 3
+name: An introduction to iterating functions over finite sets
 speakers:
   - Daniel Panario
 categories:

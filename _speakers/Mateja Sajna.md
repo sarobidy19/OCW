@@ -1,6 +1,6 @@
 ---
-name: Mateja Sajna
+name: Mateja Šajna
 first_name: Mateja
-last_name: Sajna (University of Ottawa)
+last_name: Šajna (University of Ottawa)
 hide: true
 ---

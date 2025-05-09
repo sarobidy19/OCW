@@ -85,6 +85,13 @@ p {
   </div>
 </div>
 
+
+<div class="speaker-section">
+  <h2> Program</h2>
+  </div>
+
+  The workshop program can be found <a href="{{site.baseurl}}/assets/pdfs/OCW2025program.pdf"> here </a>. You can also access the schedule and abstracts in the main menu.
+
 <div class="speaker-section">
   <h2> Registration</h2>
   </div>
