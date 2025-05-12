@@ -166,7 +166,7 @@ conference:
       #   - Thunderforest.Neighbourhood
       #   - Esri.WorldTopoMap
       map_provider: "OpenStreetMap.Mapnik"
-      default_zoom: 37
+      default_zoom: 17
 
 
   program:
