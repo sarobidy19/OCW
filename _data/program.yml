@@ -3,7 +3,7 @@ days:
   abbr: Saturday
   date: 2025-05-24
   rooms:
-  - name: Room A
+  - name: HP 4351
     talks:
       - name: Recent trends in random walks on graphs
         time_start: '9:00'
@@ -42,7 +42,7 @@ days:
         time_start: '16:30'
         time_end: '17:00'
       
-  - name: Room B
+  - name: HP 5345
     talks:
       - name: Coffee break
         time_start: '10:00'
@@ -83,7 +83,7 @@ days:
   abbr: Sunday
   date: 2025-05-25
   rooms: 
-    - name: Room A
+    - name: HP 4351
       talks:
       - name: An introduction to iterating functions over finite sets
         time_start: '9:00'
@@ -112,7 +112,7 @@ days:
       - name: Coffee break
         time_start: '15:30'
         time_end: '15:40'
-    - name: Room B
+    - name: HP 5345
       talks:
       - name: Coffee break
         time_start: '10:00'
