@@ -109,7 +109,7 @@ conference:
 
   # Information boxes
   info_bars:
-    - title: For any questions, please email <a href="mailto:ssachan@yorku.ca"> ssachan@yorku.ca </a> .
+    - title: Lunch place <a href="https://www.google.com/maps/dir/45.3823243,-75.6974782/Teraanga+Commons+Dining+Hall,+Teraanga+Commons,+1125+Colonel+By+Dr+3rd+floor,+Ottawa,+ON+K1S+5B6/@45.3847402,-75.6979492,17z/data=!3m1!5s0x4cce05d90ff18ead:0x7297c82694750cf8!4m9!4m8!1m0!1m5!1m1!1s0x4cce051392b7aef7:0x5da7d81cef61eb0d!2m2!1d-75.697282!2d45.3866971!3e2?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D"> Teraanga Commons Dining Hall </a>.
       color: primary
       main_only: false
       
