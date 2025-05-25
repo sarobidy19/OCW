@@ -81,6 +81,8 @@ conference:
         relative_url: /speakers/
       - name: Location
         relative_url: /location/
+      - name: Photos
+        relative_url: /photos/
 
   speakers:
     show_firstname: true
